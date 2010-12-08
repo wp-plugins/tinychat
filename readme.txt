@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Tinychat ===
 Contributors: markjaquith, mdawaffe (this should be a list of wordpress.org userid's)
 Donate link: http://www.tinychat.com/
 Tags: chat, communication
