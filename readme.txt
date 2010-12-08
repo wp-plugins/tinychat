@@ -25,6 +25,8 @@ the ability chat, and share there experiance of your site!
 * Select Moderator roles
 * Easy to use!
 
+Feel free to report any and all bugs you may find!
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
