@@ -1,5 +1,5 @@
 === Tinychat ===
-Contributors: markjaquith, mdawaffe (this should be a list of wordpress.org userid's)
+Contributors: tinychat
 Donate link: http://www.tinychat.com/
 Tags: chat, communication
 Requires at least: 3.0
