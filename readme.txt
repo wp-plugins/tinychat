@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 3.0
 Stable tag: 1.0
 
-Tinychat plugin for Wordpress. This plugin adds webcam chat support to your wordpress blog / site.. easy klick install.
+Tinychat plugin for Wordpress. This plugin adds webcam chat support to your wordpress blog / site.. easy click install.
 All you need to do is download, active and configure!
 
 == Description ==
