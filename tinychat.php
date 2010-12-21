@@ -3,7 +3,7 @@
 Plugin Name: Tinychat
 Plugin URI: 
 Description: Add tinychat to your wordpress blogg / site
-Version: 1.0.0
+Version: 1.0.1
 Author: Tinychat
 Author URI: tinychat
 */
