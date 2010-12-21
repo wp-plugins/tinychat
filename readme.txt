@@ -3,8 +3,8 @@ Contributors: tinychat
 Donate link: http://www.tinychat.com/
 Tags: chat, communication
 Requires at least: 3.0
-Tested up to: 3.0
-Stable tag: 1.0
+Tested up to: 3.0.3
+Stable tag: 1.0.1
 
 Tinychat plugin for Wordpress. This plugin adds webcam chat support to your wordpress blog / site.. easy click install.
 All you need to do is download, active and configure!
@@ -61,6 +61,9 @@ Copy the color and change the # to and 0x and done!
 2. Webchat page
 
 == Changelog ==
+
+= 1.0.1 =
+ * Fixed missing return statement breaking posts in wordpress 3.0.3
 
 == Upgrade Notice ==
 
