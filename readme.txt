@@ -57,13 +57,15 @@ http://www.2createawebsite.com/build/hex-colors.html
 Copy the color and change the # to and 0x and done!
 
 == Screenshots ==
+
 1. Admin settings panel!
 2. Webchat page
 
 == Changelog ==
 
 = 1.0.1 =
- * Fixed missing return statement breaking posts in wordpress 3.0.3
+
+* Fixed missing return statement breaking posts in wordpress 3.0.3
 
 == Upgrade Notice ==
 
