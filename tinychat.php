@@ -42,7 +42,10 @@ add_filter('the_content', 'wp_show_tinychat_page', 12);
 function wp_show_tinychat_page($content = '') {
 	if(preg_match("/\[tinychat_page\]/",$content)) {
 		wp_show_tinychat();
+		return "";
 	}
+	
+	return $content;
 }
 
 function wp_show_tinychat() {
